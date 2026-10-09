@@ -1,0 +1,28 @@
+# CMake and build output
+/build/
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+
+# Visual Studio generated files
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.user
+
+# Compiled binaries and libraries
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+
+# IDE and operating-system files
+.vscode/*.log
+.DS_Store
+Thumbs.db
